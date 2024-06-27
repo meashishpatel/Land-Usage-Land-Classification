@@ -1,0 +1,12 @@
+path: training_images
+train: training_images/all/images/train
+val: training_images/all/images/val
+
+names: 
+  0: car
+  1: forest
+  2: road
+  3: building
+  4: water
+  5: grass
+  6: person
