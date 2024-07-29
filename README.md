@@ -3,6 +3,10 @@
 ## Project Overview
 
 SAMAR is a project aimed at leveraging space-based technology for the monitoring and analysis of agricultural resources. It involves the use of satellite data and advanced analytics to provide insights into crop health, water management, and overall agricultural productivity.
+![image](https://github.com/user-attachments/assets/e69a0a6f-4e58-4053-9968-e7f6f14813f1)
+![image](https://github.com/user-attachments/assets/5c68b9e7-e775-419d-96d3-74f8ccaa9c0f)
+![image](https://github.com/user-attachments/assets/39bab2f6-e8d8-47de-bc55-9079ebbdd9f1)
+![image](https://github.com/user-attachments/assets/25d82ce8-1258-4c7c-b02a-2d8d7139f60e)
 
 ## Developed By: 
 
