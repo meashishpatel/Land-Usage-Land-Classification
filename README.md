@@ -68,5 +68,3 @@ For more information about SAMAR, please contact:
 - Ashish Patel: ashishpatel3009@gmail.com
 
 ---
-
-This README provides an overview of SAMAR, its objectives, features, and instructions on how to use and contribute to the project.
